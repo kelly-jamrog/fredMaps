@@ -1,7 +1,5 @@
 # Making Spatial Analysis Easier using fredMaps
 
-![Fred](fred.jpeg)
-
 fredMaps simplifies mapping of the continental United States for beginner and intermediate R users. This package has data import, data management, and plot functionalities.
 
 
@@ -15,4 +13,4 @@ if(!requrie(devtools)) {
 devtools::install_github("kelly-jamrog/fredMaps", build_vignettes = TRUE)
 ```
 
-The source code is available [here](https://github.com/kelly-jamrog/fredMap).
+The source code is available [here](https://github.com/kelly-jamrog/fredMaps).
